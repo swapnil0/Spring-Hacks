@@ -1,4 +1,4 @@
 # Spring-Hacks
 
-out for banner txt
+Banner text creator for spring application
             
